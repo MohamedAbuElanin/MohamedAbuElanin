@@ -54,14 +54,18 @@ Passionate about learning, teaching, and turning ideas into real projects.
 ---
 
 ## 📝 Markdown Cheatsheet (Developer Style)
+
 ### Headings
-_Emphasized text_ or *Emphasized text*
-__Strong text__ or **Strong text**
-___Strong emphasized text___ or ***Strong emphasized text***
+_Emphasized text_ or *Emphasized text*  
+__Strong text__ or **Strong text**  
+___Strong emphasized text___ or ***Strong emphasized text***  
 ~~Strikethrough~~
 
-[Google](http://www.google.com "Google link")
+### Links
+[Google](http://www.google.com "Google link")  
 <http://example.com/>
+
+### Tables
 | First Header | Second Header |
 |--------------|---------------|
 | Content Cell | Content Cell  |
@@ -70,21 +74,14 @@ ___Strong emphasized text___ or ***Strong emphasized text***
 | Left aligned | Right aligned | Center aligned |
 |:------------ | ------------: |:-------------:|
 | Left         | Right         | Center        |
-| Cell        | Cell          | Cell          |
+| Cell         | Cell          | Cell          |
 
+### Code Example
+```javascript
 function greet(name) {
   return `Hello ${name}, welcome to my GitHub! 🚀`;
 }
 
-* Bullet list
-  * Nested bullet
-1. Numbered list
-   1. Nested numbered
-- [ ] Task list
-- [x] Completed task
-
-
-```md
 
 
 
