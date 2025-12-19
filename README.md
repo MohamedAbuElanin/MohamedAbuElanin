@@ -1,8 +1,8 @@
 <a name="TOP"></a>
 
-# 👋 Hi, I'm Mohamed Osman
+# 👋 Hi, I'm Mohamed Osman (MohamedAbuElanin)
 
-**Front-End Developer | Business Information Systems Student | Tech Content Creator**
+**Front-End Developer | BIS Student | Tech Enthusiast | SIA Graduation Project**
 
 I build clean, responsive, and user-focused web interfaces using modern web technologies.  
 Passionate about learning, teaching, and turning ideas into real projects.
@@ -11,91 +11,72 @@ Passionate about learning, teaching, and turning ideas into real projects.
 
 ## 🚀 About Me
 
-- 🎓 BIS Student (Business Information Systems)
+- 🎓 Business Information Systems Student
 - 💻 Front-End Developer (HTML, CSS, JavaScript, Bootstrap)
 - 🤖 Working on **SIA Graduation Project** (AI-powered Career Guidance System)
-- 🎥 Tech Content Creator (Programming & Career Guidance)
 - 🌍 Based in Egypt
+- 🎯 Goal: Deliver high-quality projects while learning advanced Front-End practices
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Front-End
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **Bootstrap**
-
-### Tools & Platforms
-- Git & GitHub
-- Firebase
-- VS Code
-- Figma (UI/UX Basics)
-
----
-
-## 📂 Featured Projects
-
-| Project Name | Description | Tech |
-|-------------|------------|------|
-| **SIA** | AI-based career guidance system | HTML, CSS, JS, Firebase |
-| **Front-End Practice Projects** | Small & clean UI projects | HTML, CSS, Bootstrap |
-| **Career Tests System** | Holland & Big Five Tests | JS, JSON, Firebase |
-
----
-
-## 🧠 What I’m Learning Now
-
-- ✔ Advanced JavaScript
-- ✔ Front-End Best Practices
-- ✔ Clean Code & Project Structure
-- ⏳ React (Next Step)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbuElanin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbuElanin&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-- 💼 **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/mohamed-abu-el-anin-164168300)
-- 💻 **GitHub**: [Your GitHub Profile]([https://github.com/YOUR_USERNAME](https://github.com/MohamedAbuElanin))
-- 📧 **Email**: medsmohamed910@gmail.com
-
----
-
-## 📝 How I Work
-
-- Write clean & readable code
-- Focus on user experience
-- Learn by building real projects
-- Improve step by step
-
-> [!TIP]
-> I believe small consistent progress beats fast unfinished learning.
+<p align="left">
+  <a href="https://linkedin.com/in/mohamed-abu-el-anin-164168300/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MohamedAbuElanin">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📌 Roadmap
+## 📝 Markdown Cheatsheet (Developer Style)
 
-- [x] Learn HTML & CSS
-- [x] JavaScript Fundamentals
-- [x] Build Real Projects
-- [ ] Advanced Front-End
-- [ ] React
-- [ ] Freelance / Remote Job
-
----
-
-## 🧩 Code Example
-
-```javascript
+### Headings
+```md
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+_Emphasized text_ or *Emphasized text*
+__Strong text__ or **Strong text**
+___Strong emphasized text___ or ***Strong emphasized text***
+~~Strikethrough~~
+[Google](http://www.google.com "Google link")
+<http://example.com/>
+| First Header | Second Header |
+|--------------|---------------|
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
 function greet(name) {
   return `Hello ${name}, welcome to my GitHub! 🚀`;
 }
-
-console.log(greet("Visitor"));
+* Bullet list
+  * Nested bullet
+1. Numbered list
+   1. Nested numbered
+- [ ] Task list
+- [x] Completed task
