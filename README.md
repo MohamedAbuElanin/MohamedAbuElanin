@@ -53,35 +53,6 @@ Passionate about learning, teaching, and turning ideas into real projects.
 
 ---
 
-## 📝 Markdown Cheatsheet (Developer Style)
-
-### Headings
-_Emphasized text_ or *Emphasized text*  
-__Strong text__ or **Strong text**  
-___Strong emphasized text___ or ***Strong emphasized text***  
-~~Strikethrough~~
-
-### Links
-[Google](http://www.google.com "Google link")  
-<http://example.com/>
-
-### Tables
-| First Header | Second Header |
-|--------------|---------------|
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
-
-| Left aligned | Right aligned | Center aligned |
-|:------------ | ------------: |:-------------:|
-| Left         | Right         | Center        |
-| Cell         | Cell          | Cell          |
-
-### Code Example
-```javascript
-function greet(name) {
-  return `Hello ${name}, welcome to my GitHub! 🚀`;
-}
-
 
 
 
